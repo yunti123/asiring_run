@@ -1,0 +1,3730 @@
+Mono path[0] = 'G:/yedek/asiring_run/asiring_run_Data/Managed'
+Mono path[1] = 'G:/yedek/asiring_run/asiring_run_Data/Mono'
+Mono config path = 'G:/yedek/asiring_run/asiring_run_Data/Mono/etc'
+PlayerConnection initialized from G:/yedek/asiring_run/asiring_run_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55453
+Multi-casting "[IP] 192.168.1.8 [Port] 55453 [Flags] 2 [Guid] 1250262903 [EditorId] 923744253 [Version] 1048832 [Id] WindowsPlayer(Kimo) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.8:55453]
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     2972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\yedek\asiring_run\asiring_run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\yedek\asiring_run\asiring_run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading G:\yedek\asiring_run\asiring_run_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\yedek\asiring_run\asiring_run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\yedek\asiring_run\asiring_run_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\2D Sky FREE.dll (this message is harmless)
+Loading G:\yedek\asiring_run\asiring_run_Data\Managed\2D Sky FREE.dll into Unity Child Domain
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\GETween.dll (this message is harmless)
+Loading G:\yedek\asiring_run\asiring_run_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading G:\yedek\asiring_run\asiring_run_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+- Completed reload, in  3.134 seconds
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\yedek\asiring_run\asiring_run_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.769774 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.271824 ms
+System memory in use before: 16.0 MB.
+System memory in use after: 16.0 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 0.213484 ms (FindLiveObjects: 0.016832 ms CreateObjectMapping: 0.018474 ms MarkObjects: 0.172839 ms  DeleteObjects: 0.004516 ms)
+
+0.05038758
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1355813
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1617597
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1973196
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2470224
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2959801
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3470968
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.395228
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.445772
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4955055
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5470053
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5956735
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6452987
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6959683
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7480137
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7986759
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.8485573
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.8968449
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9447163
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9946494
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.04864604
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.09958662
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.1507132
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.1994467
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2470347
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2952263
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3456767
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3949324
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.4447928
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.05041714
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.09973072
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.1501971
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2000305
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2500978
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3008709
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3501204
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3970114
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.4453015
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.4967938
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5469708
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5971169
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.6474405
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.6968883
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.7487133
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.7972645
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8459129
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.896383
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.9473963
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.9961569
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.04953035
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.09933783
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1494803
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1994516
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.249195
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3040239
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.35409
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4042916
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4539242
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5017881
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5523999
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.602062
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6509383
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7016178
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7518169
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.8012291
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.8509355
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9007726
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9485281
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9982949
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.04846498
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.09756057
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.1482129
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.1975758
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2485767
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2961611
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3468898
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.396297
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.4469716
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.4972852
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5468033
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5970098
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.6460143
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.6961013
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.745208
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.7962816
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8456568
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8978795
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.9524694
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.05007844
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1003983
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1500259
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1996585
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2503725
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3012933
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3499332
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3992653
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4499238
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4992337
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5496225
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5993437
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6501784
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6985387
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7495667
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.04985797
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.09963096
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.14925
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2009049
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2497911
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.300212
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3492361
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.402486
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.4497662
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5016182
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5481335
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5985789
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.6480994
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.6993011
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.7502971
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8020641
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8507249
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.9013379
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.9509212
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.05082235
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.09983295
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.150829
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2015195
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2512556
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3009128
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3506919
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.400077
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4493721
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4999468
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5517015
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.602312
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6527267
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7037991
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.05117583
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.1013134
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.1506738
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.1996745
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2485878
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.2983633
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3501993
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.3980484
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.4497452
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5002412
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.5524516
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.6015312
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.6527206
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.7019418
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.7529686
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8013917
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8528077
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.9028836
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.9509767
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.602836
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.655624
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.7036628
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.7548497
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8026829
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.8533106
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.9023114
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-0.952598
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+-1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.05132116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1008146
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1509718
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2009259
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2499439
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.301063
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3523436
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4002297
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4516752
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5004296
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5506743
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6006284
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6510825
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7017558
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7517098
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.8005924
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.8495303
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.896335
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9479012
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9953132
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.05289519
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.103002
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1528698
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2028103
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2529774
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3005174
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3497965
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3994143
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4498265
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5034583
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5520772
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.1571597
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2058895
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.2568818
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3059195
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.3570165
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4112714
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.4618622
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5068232
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.5570063
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6056339
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.6562628
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7054384
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.7555957
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.8052307
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.8562021
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9050428
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+0.9578518
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+karakteHareket:Update() (at G:\yedek\asiring_run\Assets\script\karakteHareket.cs:115)
+ 
+(Filename: G:/yedek/asiring_run/Assets/script/karakteHareket.cs Line: 115)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.777164 ms
+System memory in use before: 15.9 MB.
+System memory in use after: 15.9 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.237295 ms (FindLiveObjects: 0.018064 ms CreateObjectMapping: 0.016011 ms MarkObjects: 0.176945 ms  DeleteObjects: 0.025043 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e20 -> priority: 1 
+  Thread -> id: 2220 -> priority: 1 
